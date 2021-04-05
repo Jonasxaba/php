@@ -1,4 +1,4 @@
 <?php
-echo "Ola Jonas Schabach";
+echo "Oi Schabach";
 
 ?>
